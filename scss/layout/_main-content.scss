@@ -130,7 +130,7 @@
   // Cryptocurrencies section
   .cryptocurrencies-section {
     width: 100%;
-    background-color: #fff;
+    background-color: #ea00ff;
     color: black;
     padding: 120px 0 50px;
     @include flexbox;
@@ -159,7 +159,7 @@
         transition: all 0.3s ease-in;
 
         &:hover {
-          background-color: #35068c;
+          background-color: #00f7ff;
           color: #fff;
           transform: scale(1.05);
           p {
