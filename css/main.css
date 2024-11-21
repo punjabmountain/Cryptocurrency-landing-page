@@ -62,11 +62,11 @@
     color: #fbc17c
 }
 .main-header-navbar__login__register-btn {
-    width: 60%;
-    padding: 9px 10px;
-    background-color: #000000;
+    width: 100%;
+    padding: 4px 8px;
+    background-color: #ff3572;
     color: #fff;
-    border-radius: 25px;
+    border-radius: 5px;
     display: inline-block;
     text-align: center;
     text-decoration: none;
