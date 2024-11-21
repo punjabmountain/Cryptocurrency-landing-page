@@ -33,12 +33,12 @@
 }
 .main-header-navbar__logo {
     width: 40%;
-    max-width: 50px;
+    max-width: 250px;
     margin-right: auto
 }
 .main-header-navbar__login {
     order: 1;
-    width: 50%;
+    width: 80%;
     max-width: 240px;
     display: flex;
     flex-flow: row wrap;
