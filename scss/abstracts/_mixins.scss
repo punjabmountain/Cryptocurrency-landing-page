@@ -2,7 +2,7 @@
 @mixin button($width: 150px, $pd-y: 9px, $pd-x: 10px, $bdr-r: 25px,$fnt-size:1.4rem) {
   width: $width;
   padding: $pd-y $pd-x;
-  background-color: $btn-bg-color;
+  background-color: #fbbec3;
   color: #fff;
   border-radius: $bdr-r;
   display: inline-block;
