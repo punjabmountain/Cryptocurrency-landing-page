@@ -19,7 +19,7 @@
     width: 100%;
     background-image: url(../assets/header-assets/header-pattern1.svg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     margin-bottom: 75px
 }
