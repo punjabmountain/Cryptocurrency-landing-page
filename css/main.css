@@ -11,8 +11,8 @@
     width: 100%;
     padding: 5% 0;
     font-family: "Rubik", sans-serif;
-    background: linear-gradient(#ffb4f5 50%, #e735ff);
-    color: #fff;
+    background: linear-gradient(#ffb4f5 80%, #ff00aa);
+    color: #ff13b8;
     overflow-x: hidden
 }
 .main-header {
